@@ -1,7 +1,6 @@
 ## Olá, Eu sou o Wagner Lacerda
 
 - 🌱 Estou estudando HTML/CSS, Javascript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/wagner-lacerda">
